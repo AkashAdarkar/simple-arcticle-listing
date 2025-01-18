@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://akashadarkar.github.io/simple-arcticle-listing/">
       Demo
     </a>
     <span> | </span>
